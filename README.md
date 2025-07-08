@@ -1,5 +1,5 @@
 
-# 🧩 Problem and Data Design
+# 🧩 Microloan Default Prediction
 
 ## 🎯 Project Title
 **AI-Powered Microloan Default Prediction for Kenya's Informal Sector**
