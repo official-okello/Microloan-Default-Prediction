@@ -60,16 +60,16 @@ This project aims to:
 
 ## 📁 Project Structure
 
-Microloan Default Prediction/
-├── datasets/
-│ └── simulated_loan_data.csv
-├── saved_models/
-│ └── loan_default_pipeline.joblib
-├── src/
-│ └── pipeline.py
-├── evaluation_report.txt
-├── requirements.txt
-└── README.md
+Microloan Default Prediction/            
+├── datasets/                        
+│ └── simulated_loan_data.csv            
+├── saved_models/            
+│ └── loan_default_pipeline.joblib            
+├── src/            
+│ └── pipeline.py                        
+├── evaluation_report.txt            
+├── requirements.txt            
+└── README.md            
 
 
 ---
